@@ -125,9 +125,9 @@ navigation_header:
 - title: About Course
   url: /
 - title: About Trainer
-  url: /site.baseurl/about/
+  url: ./about/
 - title: Where to Attend
-  url: /site.baseurl/location/
+  url: ./location/
 
 
 
