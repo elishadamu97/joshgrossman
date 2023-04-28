@@ -13,6 +13,7 @@ aside: true
     color: #F97316;
   }
 </style>
+![profile_img](/assets/profile-00f8357c.jpg)
 Hi there! My name is  and my job/passion is helping organizations to build secure software!
 
 <br>
