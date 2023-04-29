@@ -38,11 +38,12 @@ li::marker {
   border-radius: 3px;
   background-color: #171716;
   color: white;
+  font-size:20px;
 }
 .text{
   text-decoration: underline;
   color: #F97316;
-  font-size: 20px;
+  font-size: 20px !important;
 }
 .text-discuss{
   color: #F97316;
@@ -51,10 +52,14 @@ li::marker {
 li{
   margin-left: 50px;
 }
+p{
+  font-size: 20px !important;
+}
 }
 
 </style>
-
+<br>
+<br>
 I am delivering training courses on how to build effective processes around application security scanning tools as part of my work for Bounce Security. The course's official name is “Building a High-Value AppSec Scanning Programme” and it's unofficial, more fun but less descriptive name is “Tune your Toolbox for Velocity and Value”. This post will serve as a way of getting more information about the course.
 <br>
 <br>
