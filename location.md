@@ -1,7 +1,7 @@
 ---
-title: Event
+title: Where to attend
 layout: categories
-aside: true
+
 ---
 
 <style>
