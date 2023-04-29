@@ -30,7 +30,7 @@ li::marker {
   background-color: #171716;
   color: white;
 }
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 480px) {
  .quote{
   width:380px;
   height:100%;
