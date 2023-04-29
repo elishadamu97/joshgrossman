@@ -1,6 +1,19 @@
+<style>
+  
+   
+    @media screen and (max-width: 480px) {
+ 
+  .list{
+    display: flex;
+    flex-direction: row;
+    margin-left: 0px;
+  }
+}
+  
+</style>
 {% if site.navigation_header %}
-<nav style="" class="nav  nav--header">
-  <ul class="list  list--nav">
+<nav  class="nav  nav--header">
+  <ul  class="list  list--nav">
     {% for item in site.navigation_header %}
 
       {% if item.url contains '://' %}

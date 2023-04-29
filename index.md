@@ -22,6 +22,36 @@ li{
 li::marker {
   	color:  #F97316;
 }
+.quote{
+  width:750px;
+  height:100%;
+  border: 1px solid white;
+  border-radius: 3px;
+  background-color: #171716;
+  color: white;
+}
+@media screen and (max-width: 500px) {
+ .quote{
+  width:380px;
+  height:100%;
+  border: 1px solid white;
+  border-radius: 3px;
+  background-color: #171716;
+  color: white;
+}
+.text{
+  text-decoration: underline;
+  color: #F97316;
+  font-size: 20px;
+}
+.text-discuss{
+  color: #F97316;
+  font-size: 20px;
+}
+li{
+  margin-left: 50px;
+}
+}
 
 </style>
 
@@ -77,6 +107,22 @@ I ran a 1 day version of the course focussing on SCA and SAST virtually at OWASP
 Both sessions went great with very positive feedback.
 
 <br>
+<center >
+
+ <div class="quote"> "On target good advice on taking the next steps in SCA and SAST."</div>
+<br>
+<div class="quote"> "Group exercises were awesome – everybody were involved, compensated each other’s knowledge gaps and shared experience and approaches."</div>
+<br>
+<div class="quote">"Good high level overview of the space and a primer on what to reasonably expect when one implements a program in their business."</div>
+<br>
+<div class="quote">"There were a few aspects of SCA and SAST that I haven’t considered before and that Josh brought up that were quite helpful. Josh is also a master of balance on how much time he spends in each topic and answering questions, which meant that the training felt very fluid."</div>
+<br>
+<div class="quote"> "Very good, josh is higly (sic) skilled in the topic."
+
+</div>
+</center>
+
+<br>
 <br>
 <center>
 <span class="text" style="font-size: 23px;">
@@ -106,3 +152,7 @@ This is an example of some of the course content albeit pushed together in a les
 <span class="text-discuss">Sample 2 of the course material – Quick-fire tips  </span> ~ 40 minutes [Video](https://www.youtube.com/watch?v=5JOuRZoyc6o)
 
 This was a talk I did at DevSecCon24 which was designed to be a few quick examples of efficiency tips for SCA and SAST. In the full training course there are far more suggestions and there is much more time to explain, discuss and practice them.
+
+<br>
+<br>
+
