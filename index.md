@@ -1,16 +1,20 @@
 ---
-title: About Course
+title: About Alembic
+feature_text: |
+  ## Alembic
+  A Jekyll boilerplate theme designed to be a starting point for any Jekyll website
+feature_image: "https://picsum.photos/1300/400?image=989"
+excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
 ---
+<h1> Hello</h1>
+
+# fghfdgjrtjf
 
 I am delivering training courses on how to build effective processes around application security scanning tools as part of my work for Bounce Security. The course's official name is “Building a High-Value AppSec Scanning Programme” and it's unofficial, more fun but less descriptive name is “Tune your Toolbox for Velocity and Value”. This post will serve as a way of getting more information about the course.
 
 ## About the course
 
-
-
 You bought the application security tools, you have the findings, but now what? Many organisations find themselves drowning in “possible vulnerabilities”, struggling to streamline their processes and not sure how to measure their progress. If you are involved in using SAST, DAST or SCA tools in your organisation, these may be familiar feelings to you and this course comes to try and address these issues.
-
-
 
 This is a topic I have had significant experience with over the last several years providing application security consulting and “on the ground” assistance to various organisations. This has exposed me to a variety of these tools and several ways of working with them, seeing what works and what does not in different contexts. Being a consultant means I have no vendor allegiance or commitment and allows me to discuss useful war stories (both successful and less successful) without disclosing sensitive client/employer information.
 
@@ -88,7 +92,3 @@ This is an example of some of the course content albeit pushed together in a les
 Sample 2 of the course material – Quick-fire tips  ~ 40 minutes [Video](https://www.youtube.com/watch?v=5JOuRZoyc6o)
 
 This was a talk I did at DevSecCon24 which was designed to be a few quick examples of efficiency tips for SCA and SAST. In the full training course there are far more suggestions and there is much more time to explain, discuss and practice them.
-
-
-
-
