@@ -8,7 +8,7 @@ excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projec
 ---
 
 
-
+<br><br>
 I am delivering training courses on how to build effective processes around application security scanning tools as part of my work for Bounce Security. The course's official name is “Building a High-Value AppSec Scanning Programme” and it's unofficial, more fun but less descriptive name is “Tune your Toolbox for Velocity and Value”. This post will serve as a way of getting more information about the course.
 
 
@@ -54,18 +54,21 @@ Both sessions went great with very positive feedback.
 
  _"On target good advice on taking the next steps in SCA and SAST."_
 
+<br><br>
 
  _"Group exercises were awesome – everybody were involved, compensated each other’s knowledge gaps and shared experience and approaches."_
 
+<br><br>
 
 _"Good high level overview of the space and a primer on what to reasonably expect when one implements a program in their business."_
 
+<br><br>
+
 _"There were a few aspects of SCA and SAST that I haven’t considered before and that Josh brought up that were quite helpful. Josh is also a master of balance on how much time he spends in each topic and answering questions, which meant that the training felt very fluid."_
 
+<br><br>
+
 _"Very good, josh is higly (sic) skilled in the topic."_
-
-
-
 
 
 ### Audio/Visual information about the course
@@ -93,3 +96,4 @@ This is an example of some of the course content albeit pushed together in a les
 – Quick-fire tips ~ 40 minutes [Video](https://www.youtube.com/watch?v=5JOuRZoyc6o)
 
 This was a talk I did at DevSecCon24 which was designed to be a few quick examples of efficiency tips for SCA and SAST. In the full training course there are far more suggestions and there is much more time to explain, discuss and practice them.
+<br><br>
