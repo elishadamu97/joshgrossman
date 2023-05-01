@@ -3,7 +3,6 @@ layout: post
 title: About Trainer
 ---
 
-# hELLO
 
 ![profile_img](/assets/profile-00f8357c.jpg)
 
