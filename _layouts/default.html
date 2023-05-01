@@ -43,7 +43,19 @@
 
     {% include site-before-start.html %}
   </head>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@300;400;500;600;700&display=swap');
 
+* {
+    font-family: 'Roboto Slab', serif;
+}
+
+p {
+    line-height: 35px;
+    letter-spacing: 1px;
+    word-spacing: 2px;
+}
+</style>
   <body style="background-color: #2E2E2E; color: white !important;" class="layout-{{ page.layout }}{% if page.title %}  {{ page.title | slugify }}{% endif %}">
     {{ content }}
   </body>
