@@ -51,7 +51,7 @@ I ran a 1 day version of the course focussing on SCA and SAST virtually at OWASP
 Both sessions went great with very positive feedback.
 
 
-
+<br><br>
  _"On target good advice on taking the next steps in SCA and SAST."_
 
 <br><br>
