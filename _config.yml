@@ -101,6 +101,8 @@ url: "https://elishadamu97.github.io/joshgrossman/" # Site url, also used in jek
 baseurl: "/joshgrossman"
 repo: "https://github.com/daviddarnes/alembic"
 email: "me@daviddarnes.com"
+title_image: Josh
+twitter_username: elisha_inuwa
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
 # date_format: "%-d %B %Y" # Blog post date formatting using placeholder formatting
 # google_analytics: ""

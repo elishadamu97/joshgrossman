@@ -1,5 +1,8 @@
 ---
 title: About Course
+author: Elisha Adamu
+summary: Call me fdjgkhlujdflyhugtfrhuglkj
+image: /assets/profile-00f8357c.jpg
 ---
 
 
